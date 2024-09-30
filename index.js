@@ -14,21 +14,21 @@ const music = new Audio();
 
 const songs = [
     {
-        path: 'assets/ditto.mp3',
+        path: 'ditto.mp3',
         displayName: 'Ditto',
-        cover: 'assets/album1.jpeg',
+        cover: 'album1.jpeg',
         artist:'NewJeans'
     },
     {
-        path: 'assets/supernatural.mp3',
+        path: 'supernatural.mp3',
         displayName: 'Supernatural',
-        cover: 'assets/album2.png',
+        cover: 'album2.png',
         artist:'NewJeans'
     },
     {
-        path: 'assets/first love.mp3',
+        path: 'first love.mp3',
         displayName: 'First Love',
-        cover: 'assets/firstlove_album.png',
+        cover: 'firstlove_album.png',
         artist:'宇多田ヒカル'
     }
 ];
